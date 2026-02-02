@@ -82,9 +82,6 @@ npm run dev
 - Use deepAI models to sync video/lip movements & translated audio.
 - Resemble the spoken audio(translated) to source audio(speaker) pitch.
 
-## Team Members
-
-| <img src = "https://avatars.githubusercontent.com/u/83623339?v=4" width="50px"> | <img src = "https://avatars.githubusercontent.com/u/62538932?v=4" width="50px"> | <img src = "https://avatars.githubusercontent.com/u/74966490?v=4" width="50px"> |
 | :-----------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: | :------------------------------------------------------------------------------: |
 
 
