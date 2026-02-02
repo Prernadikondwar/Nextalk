@@ -4,10 +4,7 @@
 # NexTalk
 NexTalk is a web application that allows users who speak different languages to converse with ease by translating the audio on the fly and speaking the translated audio in the native language of the user as well as provide them with translated captions. It also offers HD video and screen share, and can accommodate up to 100 concurrent users. The application also generates automatic meeting summaries and transcripts, making it easy for participants to review important details from the meeting.
 
-> This is the Winning solution developed at 36-hour National Level hackathon called 'Hackoverflow 1.0' by PHCET, Navi Mumbai.
 
-![NexTalk - winners]
-(https://user-images.githubusercontent.com/83623339/226183207-e8b0198f-c2af-4d1f-a518-0b61e6abab7a.png)
 
 ## Use cases
 - Startups and MNCs with international work culture.
@@ -36,8 +33,7 @@ NexTalk is a web application that allows users who speak different languages to 
 - [**Prisma ORM**](https://www.prisma.io/): Modern, type-safe ORM for Node.js and TS
 - **APIs used**: Browser's [Webspeech](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API) API for transcribing and tts/speech synthesis. [Google-translate-browser](https://www.npmjs.com/package/google-translate-api-browser) API for translating texts, OneAI's [Summarizer](https://www.oneai.com/summarize) for summarizations of meeting transcripts.
 
-> **Note**
-> This project was bootstrapped with [create-t3-app](https://create.t3.gg/). Check [package.json](https://github.com/swasthikshetty10/hackoverflow/blob/main/package.json) to know all the dependencies and tech stack we used.
+
 
 ## Features
 - Multilingual Meeting Support
@@ -49,24 +45,19 @@ NexTalk is a web application that allows users who speak different languages to 
 ## Architecture
 <img width="1073" alt="Screenshot 2023-03-18 at 11 09 44 AM" src="https://user-images.githubusercontent.com/83623339/226187854-03ec9559-1122-42a3-93c7-80614fdae396.png">
 
-## Installation steps
-
-1. - Fork the [repo](https://github.com/swasthikshetty10/hackoverflow)
-   - Clone the repo to your local system `git clone https://github.com/swasthikshetty10/hackoverflow.git`
-   - Change current directory `cd hackoverflow`
-2. Install latest version of [Nodejs](https://nodejs.org/en/) and install all the dependencies:
+## Installation step
 
 ```bash
 npm install
 ```
 
-3. Generate prisma client
+ Generate prisma client
 
 ```bash
 npx prisma generate
 ```
 
-4. Copy and Rename the .env.example to .env, place it in the root directory and fill the essential vars.
+ Copy and Rename the .env.example to .env, place it in the root directory and fill the essential vars.
 
 ```bash
 cp .env.example .env
@@ -96,12 +87,10 @@ npm run dev
 
 | <img src = "https://avatars.githubusercontent.com/u/83623339?v=4" width="50px"> | <img src = "https://avatars.githubusercontent.com/u/62538932?v=4" width="50px"> | <img src = "https://avatars.githubusercontent.com/u/74966490?v=4" width="50px"> |
 | :-----------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: | :------------------------------------------------------------------------------: |
-|              [Nagaraj Pandith](https://github.com/nagarajpandith/)              |  [Swasthik Shetty](https://github.com/swasthikshetty10/](https://github.com/rudra246)>)  |                 [Tanishka Rao](https://github.com/tanishkarao16)                 |
 
 ## License
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-This repository is licensed under [Apache License 2.0](https://github.com/swasthikshetty10/hackoverflow/blob/main/LICENSE)
 
 ## Attributions
 
