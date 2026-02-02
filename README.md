@@ -1,5 +1,4 @@
-> **Note**
-> We have rebuilt the Entire architecture during a 24 hour Hackathon and brought down the latency to just 3-5 seconds. Checkout the [new repo](https://github.com/nagarajpandith/hackverse) for the latest version of the project.
+
 
 # NexTalk
 NexTalk is a web application that allows users who speak different languages to converse with ease by translating the audio on the fly and speaking the translated audio in the native language of the user as well as provide them with translated captions. It also offers HD video and screen share, and can accommodate up to 100 concurrent users. The application also generates automatic meeting summaries and transcripts, making it easy for participants to review important details from the meeting.
@@ -88,8 +87,7 @@ npm run dev
 | <img src = "https://avatars.githubusercontent.com/u/83623339?v=4" width="50px"> | <img src = "https://avatars.githubusercontent.com/u/62538932?v=4" width="50px"> | <img src = "https://avatars.githubusercontent.com/u/74966490?v=4" width="50px"> |
 | :-----------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: | :------------------------------------------------------------------------------: |
 
-## License
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 
 
 ## Attributions
